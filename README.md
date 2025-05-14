@@ -25,7 +25,3 @@ This C++ program simulates a pollution monitoring system that tracks air quality
 2. `sensor.cpp` - Implementation of sensor methods
 3. `main.cpp` - Main application with user interface
 
-## How to Compile and Run
-
-1. Make sure you have a C++ compiler installed (g++, clang++, etc.)
-2. Compile the program:
